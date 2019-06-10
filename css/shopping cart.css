@@ -101,7 +101,7 @@ header >a{
 footer{
     position: fixed;/*定到最下面*/
     left: 0;
-    bottom: 0;
+    bottom: 0px;
     height: 1rem;
     width: 100%;
     background: #f1faff;
